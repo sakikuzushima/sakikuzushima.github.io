@@ -16,9 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 >
->
->
 I am a computational social scientist with expertise in survey experiments and
-quantitative analysis, passionate about understanding human behavior through data. 
-I have designed and analyzed multiple survey experiments to understand public
-opinion, and developed new statistical models to analyze survey, text, and network data.
+text analysis.
+>
+I study how international organizations influence public opinion. I also develop new statistical methods to analyze survey, text, and network data.
+> 
+Currently, I am a Ph.D. candidate in Political Science and a dual Masters student in Statistics at the University of Michigan.
+
