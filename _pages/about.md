@@ -21,5 +21,6 @@ text analysis.
 >
 I study how international organizations influence public opinion. I also develop new statistical methods to analyze survey, text, and network data.
 > 
-Currently, I am a Ph.D. candidate in Political Science and a dual Masters student in Statistics at the University of Michigan.
+Currently, I am a Postdoctoral Fellow at the Program on U.S.-Japan Relations at Weatherhead Center for International Affairs, Harvard University.
+I received my Ph.D. in Political Science and Scientific Computing from the University of Michigan in 2024. 
 

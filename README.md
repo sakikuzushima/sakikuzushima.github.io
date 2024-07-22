@@ -75,9 +75,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://tirtharajdash.github.io" target="_blank">★</a>
 <a href="https://carolinacarreira.github.io" target="_blank">★</a>
 <a href="https://manandey.github.io" target="_blank">★</a>
-<a href="https://johanneshoerner.github.io" target="_blank">★</a>
-<a href="https://ioannismavromatis.com" target="_blank">★</a>
-<a href="https://taidnguyen.github.io" target="_blank">★</a>
+<a href="https://johanneshoerner.github.io" target="_blank">★</a> <a href="https://ioannismavromatis.com" target="_blank">★</a> <a href="https://taidnguyen.github.io" target="_blank">★</a>
 <a href="https://lbugnon.github.io" target="_blank">★</a>
 <a href="https://joahannes.github.io" target="_blank">★</a>
 <a href="https://dominikstrb.github.io" target="_blank">★</a>
